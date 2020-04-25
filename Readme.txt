@@ -1,5 +1,5 @@
 .DISCLAIMER
-Feel free to Modify the below though, I don't offer any sort of warranty
+Feel free to Modify the attached though, I don't offer any sort of warranty
 As best practice I would advise you to test it on 1 or 2 objects first
 
 .INSTRUCTIONS
