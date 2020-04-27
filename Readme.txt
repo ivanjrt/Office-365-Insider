@@ -1,6 +1,6 @@
 .DISCLAIMER
 No warranty of any kinds for this software, 
-though you are welcome to free to Modify it and make improvements if you wish and know there's any.
+though If you see any way to improve it, feel free to do so
 
 As best practice I would advise you to test it on 1 or 2 objects first
 
