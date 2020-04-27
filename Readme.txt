@@ -7,7 +7,7 @@ Windows 10
 PowerShell v5 and up unless opted for option of custom attached Registry
 
 .INSTRUCTIONS
-Option 1. run the Regedit attached as admin and then follow the propmpts then open any of the office apps and click to Update
+Option 1. run the Registry attached as admin and then follow the propmpts then open any of the office apps and click to Update
 or
 Option 2. run the Powershell script under admin rights -See more info within the script
 
